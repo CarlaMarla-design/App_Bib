@@ -1,0 +1,28 @@
+
+{
+  "Trist": [
+    {"referinta": "Psalmul 34:18", "text": "Domnul este aproape de cei cu inima frântă."},
+    {"referinta": "Matei 11:28", "text": "Veniți la Mine, toți cei trudiți și împovărați, și Eu vă voi da odihnă."},
+    {"referinta": "Apocalipsa 21:4", "text": "El va șterge orice lacrimă din ochii lor."}
+  ],
+  "Temător": [
+    {"referinta": "Isaia 41:10", "text": "Nu te teme, căci Eu sunt cu tine."},
+    {"referinta": "Psalmul 56:3", "text": "Când mă tem, mă încred în Tine."}
+  ],
+  "Singur": [
+    {"referinta": "Ioan 14:18", "text": "Nu vă voi lăsa orfani, Mă voi întoarce la voi."},
+    {"referinta": "Psalmul 23:4", "text": "Chiar dacă umblu prin valea umbrei morții, nu mă tem de niciun rău."}
+  ],
+  "Recunoscător": [
+    {"referinta": "1 Tesaloniceni 5:18", "text": "Mulțumiți lui Dumnezeu pentru toate lucrurile."},
+    {"referinta": "Psalmul 100:4", "text": "Intrați cu laude pe porțile Lui, cu cântări în curțile Lui!"}
+  ],
+  "Fără speranță": [
+    {"referinta": "Romani 15:13", "text": "Dumnezeul nădejdii să vă umple cu toată bucuria și pacea în credință."},
+    {"referinta": "Ieremia 29:11", "text": "Căci Eu știu gândurile pe care le am cu privire la voi, zice Domnul."}
+  ],
+  "Fericit": [
+    {"referinta": "Filipeni 4:4", "text": "Bucurați-vă întotdeauna în Domnul!"},
+    {"referinta": "Psalmul 118:24", "text": "Aceasta este ziua pe care a făcut-o Domnul: să ne bucurăm și să ne veselim în ea!"}
+  ]
+}
