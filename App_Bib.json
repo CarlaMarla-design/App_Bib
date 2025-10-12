@@ -1,28 +1,381 @@
-
-{
-  "Trist": [
+{"Trist": {
+  "versete": [
     {"referinta": "Psalmul 34:18", "text": "Domnul este aproape de cei cu inima frântă."},
     {"referinta": "Matei 11:28", "text": "Veniți la Mine, toți cei trudiți și împovărați, și Eu vă voi da odihnă."},
-    {"referinta": "Apocalipsa 21:4", "text": "El va șterge orice lacrimă din ochii lor."}
+    {"referinta": "Apocalipsa 21:4", "text": "El va șterge orice lacrimă din ochii lor."},
+    {"referinta": "Psalmul 147:3", "text": "El vindecă pe cei cu inima zdrobită și le leagă rănile."},
+    {"referinta": "Isaia 53:4", "text": "El a luat asupra Lui suferințele noastre."},
+    {"referinta": "2 Corinteni 1:3-4", "text": "Dumnezeul oricărei mângâieri ne mângâie în toate necazurile noastre."},
+    {"referinta": "Psalmul 30:5", "text": "Plânsul poate dura o noapte, dar dimineața vine bucuria."},
+    {"referinta": "Ioan 16:33", "text": "În lume veți avea necazuri, dar îndrăzniți, Eu am biruit lumea."},
+    {"referinta": "Psalmul 42:11", "text": "Pentru ce te mâhnești, suflete al meu? Speră în Dumnezeu."},
+    {"referinta": "Isaia 61:3", "text": "Să le dea o cunună în loc de cenușă, untdelemn de bucurie în loc de jale."}
   ],
-  "Temător": [
-    {"referinta": "Isaia 41:10", "text": "Nu te teme, căci Eu sunt cu tine."},
-    {"referinta": "Psalmul 56:3", "text": "Când mă tem, mă încred în Tine."}
-  ],
-  "Singur": [
-    {"referinta": "Ioan 14:18", "text": "Nu vă voi lăsa orfani, Mă voi întoarce la voi."},
-    {"referinta": "Psalmul 23:4", "text": "Chiar dacă umblu prin valea umbrei morții, nu mă tem de niciun rău."}
-  ],
-  "Recunoscător": [
-    {"referinta": "1 Tesaloniceni 5:18", "text": "Mulțumiți lui Dumnezeu pentru toate lucrurile."},
-    {"referinta": "Psalmul 100:4", "text": "Intrați cu laude pe porțile Lui, cu cântări în curțile Lui!"}
-  ],
-  "Fără speranță": [
-    {"referinta": "Romani 15:13", "text": "Dumnezeul nădejdii să vă umple cu toată bucuria și pacea în credință."},
-    {"referinta": "Ieremia 29:11", "text": "Căci Eu știu gândurile pe care le am cu privire la voi, zice Domnul."}
-  ],
-  "Fericit": [
-    {"referinta": "Filipeni 4:4", "text": "Bucurați-vă întotdeauna în Domnul!"},
-    {"referinta": "Psalmul 118:24", "text": "Aceasta este ziua pe care a făcut-o Domnul: să ne bucurăm și să ne veselim în ea!"}
+  "rugaciuni": [
+    "Doamne, în momentele mele de tristețe, vin la Tine cu inima frântă. Te rog să-mi aduci mângâiere, să-mi ștergi lacrimile și să-mi umpli sufletul cu speranță.",
+    "Tată ceresc, știu că Tu ești aproape de cei zdrobiți. Ajută-mă să simt prezența Ta și să găsesc pacea în Cuvântul Tău.",
+    "Isuse, Tu ai plâns cu cei ce plângeau. Fii alături de mine acum și dă-mi puterea să merg mai departe cu credință."
   ]
+},
+
+"Recunoscător": {
+  "versete": [
+    {"referinta": "1 Tesaloniceni 5:18", "text": "Mulțumiți lui Dumnezeu pentru toate lucrurile."},
+    {"referinta": "Psalmul 100:4", "text": "Intrați cu laude pe porțile Lui, cu cântări în curțile Lui!"},
+    {"referinta": "Coloseni 3:17", "text": "Tot ce faceți, cu cuvântul sau cu fapta, să faceți în Numele Domnului Isus, mulțumind prin El lui Dumnezeu."},
+    {"referinta": "Psalmul 107:1", "text": "Lăudați pe Domnul, căci este bun, căci îndurarea Lui ține în veci!"},
+    {"referinta": "Efeseni 5:20", "text": "Mulțumiți totdeauna lui Dumnezeu Tatăl pentru toate lucrurile, în Numele Domnului nostru Isus Hristos."},
+    {"referinta": "Psalmul 103:2", "text": "Binecuvântează, suflete, pe Domnul și nu uita niciuna din binefacerile Lui!"},
+    {"referinta": "Filipeni 4:6", "text": "Nu vă îngrijorați de nimic; ci, în orice lucru, aduceți cererile voastre la cunoștința lui Dumnezeu prin rugăciuni și mulțumiri."},
+    {"referinta": "Psalmul 136:1", "text": "Lăudați pe Domnul, căci este bun, căci în veac ține îndurarea Lui!"},
+    {"referinta": "Evrei 12:28", "text": "Să fim mulțumitori și să aducem lui Dumnezeu o închinare plăcută."},
+    {"referinta": "Luca 17:15-16", "text": "Unul dintre ei, când s-a văzut vindecat, s-a întors slăvind pe Dumnezeu cu glas tare și s-a aruncat cu fața la pământ la picioarele lui Isus și I-a mulțumit."}
+  ],
+  "rugaciuni": [
+    "Doamne, îți mulțumesc pentru darurile văzute și nevăzute din viața mea. Inima mea se umple de recunoștință pentru bunătatea Ta.",
+    "Tată ceresc, chiar și în lucrurile mici văd mâna Ta. Îți mulțumesc pentru dragostea și grija Ta neîncetată.",
+    "Isuse, îți mulțumesc pentru harul Tău care mă însoțește în fiecare zi. Ajută-mă să trăiesc cu o inimă mulțumitoare."
+  ]
+},
+
+"Fericit": {
+  "versete": [
+    {"referinta": "Filipeni 4:4", "text": "Bucurați-vă întotdeauna în Domnul!"},
+    {"referinta": "Psalmul 118:24", "text": "Aceasta este ziua pe care a făcut-o Domnul: să ne bucurăm și să ne veselim în ea!"},
+    {"referinta": "Proverbe 17:22", "text": "O inimă veselă este un bun leac."},
+    {"referinta": "Psalmul 16:11", "text": "Înaintea feței Tale sunt bucurii nespuse și desfătări veșnice."},
+    {"referinta": "Neemia 8:10", "text": "Bucuria Domnului este tăria voastră."},
+    {"referinta": "Galateni 5:22", "text": "Roada Duhului este... bucuria."},
+    {"referinta": "Psalmul 32:11", "text": "Bucurați-vă în Domnul și veseliți-vă, cei neprihăniți!"},
+    {"referinta": "Isaia 12:3", "text": "Veți scoate apă cu bucurie din izvoarele mântuirii."},
+    {"referinta": "Romani 12:12", "text": "Bucurați-vă în nădejde."},
+    {"referinta": "Psalmul 126:2", "text": "Atunci gura ne era plină de râs și limba de cântări de bucurie."}
+  ],
+  "rugaciuni": [
+    "Doamne, îți mulțumesc pentru bucuria care izvorăște din Tine. Ajută-mă să o păstrez chiar și în zilele grele.",
+    "Tată ceresc, inima mea se bucură în prezența Ta. Fie ca râsul meu să fie o mărturie a harului Tău.",
+    "Isuse, Tu ești sursa fericirii mele. Umple-mi viața cu lumina Ta și fă-mă o binecuvântare pentru ceilalți."
+  ]
+},
+"Temător": {
+  "versete": [
+    {"referinta": "Isaia 41:10", "text": "Nu te teme, căci Eu sunt cu tine."},
+    {"referinta": "Psalmul 56:3", "text": "Când mă tem, mă încred în Tine."},
+    {"referinta": "2 Timotei 1:7", "text": "Căci Dumnezeu nu ne-a dat un duh de frică, ci de putere, de dragoste și de chibzuință."},
+    {"referinta": "Iosua 1:9", "text": "Întărește-te și îmbărbătează-te! Nu te înspăimânta."},
+    {"referinta": "Psalmul 27:1", "text": "Domnul este lumina și mântuirea mea: de cine să mă tem?"},
+    {"referinta": "Ioan 14:27", "text": "Pacea Mea v-o dau."
+    }
+  ],
+   "rugaciuni": [
+    "Doamne, când frica mă cuprinde, amintește-mi că Tu ești cu mine. Ajută-mă să mă încred în puterea și protecția Ta.",
+    "Tată ceresc, îndepărtează orice teamă din inima mea și umple-mă cu Duhul Tău de curaj și pace.",
+    "Isuse, Tu ai spus să nu ne temem. Întărește-mă să pășesc cu încredere, știind că Tu mă ții de mână."
+  ]
+},
+
+    "Încrezător": {
+  "versete": [
+    {"referinta": "Proverbe 3:5", "text": "Încrede-te în Domnul din toată inima ta și nu te bizui pe înțelepciunea ta."},
+    {"referinta": "Psalmul 27:3", "text": "Chiar dacă o oaste ar tăbărî împotriva mea, inima mea tot nu s-ar teme."},
+    {"referinta": "Isaia 26:3", "text": "Celui cu inima tare, Tu-i păstrezi pacea, căci se încrede în Tine."},
+    {"referinta": "Filipeni 1:6", "text": "Cel ce a început în voi această bună lucrare o va duce la bun sfârșit."},
+    {"referinta": "Psalmul 118:8", "text": "Mai bine este să cauți un adăpost în Domnul decât să te încrezi în om."},
+    {"referinta": "Evrei 10:35", "text": "Nu vă părăsiți dar încrederea voastră, care are o mare răsplătire."},
+    {"referinta": "Psalmul 56:4", "text": "În Dumnezeu mă voi lăuda cu cuvântul Lui, în Dumnezeu mă încred."},
+    {"referinta": "2 Corinteni 3:4", "text": "Avem încredere în Dumnezeu prin Hristos."},
+    {"referinta": "Psalmul 20:7", "text": "Unii se bizuiesc pe carele lor, alții pe caii lor, dar noi ne bizuim pe Numele Domnului."},
+    {"referinta": "Isaia 12:2", "text": "Dumnezeu este mântuirea mea, voi fi plin de încredere și nu mă voi teme."}
+  ],
+  "rugaciuni": [
+    "Doamne, întărește-mi încrederea în Tine. Ajută-mă să pășesc cu curaj, știind că Tu ești cu mine.",
+    "Tată ceresc, când îndoiala mă cuprinde, amintește-mi că Tu ești credincios și puternic.",
+    "Isuse, Tu ești stânca mea. În Tine găsesc siguranță și speranță pentru fiecare zi."
+  ]
+},
+"Îngrijorat": {
+  "versete": [
+    {"referinta": "Filipeni 4:6", "text": "Nu vă îngrijorați de nimic; ci, în orice lucru, aduceți cererile voastre la cunoștința lui Dumnezeu."},
+    {"referinta": "Matei 6:34", "text": "Nu vă îngrijorați de ziua de mâine."},
+    {"referinta": "1 Petru 5:7", "text": "Aruncați asupra Lui toate îngrijorările voastre, căci El însuși îngrijește de voi."},
+    {"referinta": "Psalmul 55:22", "text": "Încredințează-ți soarta în mâna Domnului și El te va sprijini."},
+    {"referinta": "Matei 6:25", "text": "Nu vă îngrijorați de viața voastră, ce veți mânca sau ce veți bea."},
+    {"referinta": "Isaia 41:13", "text": "Eu sunt Domnul, Dumnezeul tău, care te iau de mâna dreaptă și-ți zic: Nu te teme."},
+    {"referinta": "Psalmul 94:19", "text": "Când gândurile se înmulțesc înăuntrul meu, mângâierile Tale îmi aduc alinare."},
+    {"referinta": "Proverbe 12:25", "text": "Îngrijorarea în inima omului îl doboară, dar o vorbă bună îl înveselește."},
+    {"referinta": "Isaia 26:3", "text": "Celui cu inima tare, Tu-i păstrezi pacea, căci se încrede în Tine."},
+    {"referinta": "Psalmul 23:1", "text": "Domnul este Păstorul meu: nu voi duce lipsă de nimic."}
+  ],
+  "rugaciuni": [
+    "Doamne, ia asupra Ta grijile mele. Ajută-mă să mă odihnesc în promisiunile Tale.",
+    "Tată ceresc, când mintea mea se agită, adu-mi pacea Ta care întrece orice pricepere.",
+    "Isuse, Tu ai spus să nu ne îngrijorăm. Întărește-mă să cred și să mă încred în Tine."
+  ]
+},
+"Bucuros": {
+  "versete": [
+    {"referinta": "Psalmul 126:2", "text": "Atunci gura ne era plină de râs și limba de cântări de bucurie."},
+    {"referinta": "Psalmul 16:11", "text": "Înaintea feței Tale sunt bucurii nespuse și desfătări veșnice."},
+    {"referinta": "Isaia 12:3", "text": "Veți scoate apă cu bucurie din izvoarele mântuirii."},
+    {"referinta": "Psalmul 32:11", "text": "Bucurați-vă în Domnul și veseliți-vă, cei neprihăniți!"},
+    {"referinta": "Romani 12:12", "text": "Bucurați-vă în nădejde."},
+    {"referinta": "Psalmul 5:11", "text": "Toți cei ce se încred în Tine să se bucure."},
+    {"referinta": "Psalmul 68:3", "text": "Cei neprihăniți să se bucure, să se veselească înaintea lui Dumnezeu."},
+    {"referinta": "Ioan 15:11", "text": "V-am spus aceste lucruri pentru ca bucuria Mea să rămână în voi."},
+    {"referinta": "Psalmul 118:24", "text": "Aceasta este ziua pe care a făcut-o Domnul: să ne bucurăm și să ne veselim în ea!"},
+    {"referinta": "Filipeni 4:4", "text": "Bucurați-vă întotdeauna în Domnul!"}
+  ],
+  "rugaciuni": [
+    "Doamne, îți mulțumesc pentru bucuria care vine din Tine. Fie ca inima mea să cânte mereu laude.",
+    "Tată ceresc, bucuria Ta este tăria mea. Ajută-mă să o împărtășesc cu cei din jur.",
+    "Isuse, umple-mi sufletul cu bucuria mântuirii și fă-mă o lumină în lume."
+  ]
+},
+"Fără speranță": {
+  "versete": [
+    {"referinta": "Romani 15:13", "text": "Dumnezeul nădejdii să vă umple cu toată bucuria și pacea în credință."},
+    {"referinta": "Ieremia 29:11", "text": "Căci Eu știu gândurile pe care le am cu privire la voi, zice Domnul."},
+    {"referinta": "Psalmul 42:5", "text": "Pentru ce te mâhnești, suflete al meu? Speră în Dumnezeu."},
+    {"referinta": "Isaia 40:31", "text": "Cei ce se încred în Domnul își înnoiesc puterea."},
+    {"referinta": "Psalmul 71:14", "text": "Dar eu voi nădăjdui necontenit și Te voi lăuda tot mai mult."},
+    {"referinta": "Evrei 6:19", "text": "Această nădejde o avem ca o ancoră a sufletului, tare și neclintită."},
+    {"referinta": "Psalmul 130:5", "text": "Eu nădăjduiesc în Domnul, sufletul meu nădăjduiește și așteaptă făgăduința Lui."}
+  ],
+  "rugaciuni": [
+    "Doamne, când totul pare pierdut, adu-mi aminte că Tu ești Dumnezeul nădejdii. Aprinde din nou lumina speranței în sufletul meu.",
+    "Tată ceresc, în momentele de disperare, ajută-mă să privesc spre promisiunile Tale și să cred că viitorul este în mâinile Tale.",
+    "Isuse, Tu ești învierea și viața. Umple-mi inima cu speranță și credință, chiar și când drumul pare întunecat."
+  ]
+},
+"Singur": {
+  "versete": [
+    {"referinta": "Ioan 14:18", "text": "Nu vă voi lăsa orfani, Mă voi întoarce la voi."},
+    {"referinta": "Psalmul 23:4", "text": "Chiar dacă umblu prin valea umbrei morții, nu mă tem de niciun rău."},
+    {"referinta": "Isaia 41:10", "text": "Nu te teme, căci Eu sunt cu tine."},
+    {"referinta": "Deuteronom 31:6", "text": "Domnul, Dumnezeul tău, este Cel ce merge cu tine; El nu te va lăsa."},
+    {"referinta": "Psalmul 68:6", "text": "Dumnezeu dă o familie celor părăsiți."},
+    {"referinta": "Evrei 13:5", "text": "Nicidecum n-am să te las, cu niciun chip nu te voi părăsi."},
+    {"referinta": "Psalmul 27:10", "text": "Chiar dacă mama și tata mă părăsesc, Domnul mă primește."},
+    {"referinta": "Matei 28:20", "text": "Eu sunt cu voi în toate zilele, până la sfârșitul veacului."},
+    {"referinta": "Psalmul 139:7", "text": "Unde să mă duc departe de Duhul Tău?"},
+    {"referinta": "Isaia 49:15", "text": "Chiar dacă o mamă ar uita copilul ei, Eu nu te voi uita."}
+  ],
+  "rugaciuni": [
+    "Doamne, când mă simt singur, amintește-mi că Tu ești mereu cu mine. Umple-mi inima cu prezența Ta.",
+    "Tată ceresc, în momentele de izolare, ajută-mă să simt dragostea Ta care mă înconjoară.",
+    "Isuse, Tu ai promis că nu ne vei părăsi. Fii alături de mine și adu-mi mângâierea Ta."
+  ]
+},
+"Iertător": {
+  "versete": [
+    {"referinta": "Efeseni 4:32", "text": "Fiți buni unii cu alții, iertați-vă cum v-a iertat Dumnezeu."},
+    {"referinta": "Coloseni 3:13", "text": "Iertați-vă unii pe alții, cum v-a iertat Hristos."},
+    {"referinta": "Matei 6:14", "text": "Dacă iertați oamenilor greșelile lor, și Tatăl vostru ceresc vă va ierta."},
+    {"referinta": "Luca 6:37", "text": "Iertați, și vi se va ierta."},
+    {"referinta": "Matei 18:21-22", "text": "Să ierți nu de șapte ori, ci de șaptezeci de ori câte șapte."},
+    {"referinta": "Proverbe 17:9", "text": "Cine acoperă o greșeală caută dragostea."},
+    {"referinta": "Psalmul 103:12", "text": "Cât este de departe răsăritul de apus, atât de mult îndepărtează El păcatele noastre."},
+    {"referinta": "Isaia 1:18", "text": "Păcatele voastre vor fi albe ca zăpada."},
+    {"referinta": "Marcu 11:25", "text": "Când stați în rugăciune, iertați, ca și Tatăl vostru să vă ierte."},
+    {"referinta": "Romani 12:17", "text": "Nu răsplătiți nimănui răul pentru rău."}
+  ],
+  "rugaciuni": [
+    "Doamne, ajută-mă să iert așa cum Tu m-ai iertat. Umple-mi inima cu milă și compasiune.",
+    "Tată ceresc, îndepărtează amărăciunea din sufletul meu și învață-mă să iubesc pe cei ce m-au rănit.",
+    "Isuse, Tu ai iertat chiar și pe cei ce Te-au răstignit. Dă-mi puterea să urmez exemplul Tău."
+  ]
+},
+"Rănit": {
+  "versete": [
+    {"referinta": "Psalmul 147:3", "text": "El vindecă pe cei cu inima zdrobită și le leagă rănile."},
+    {"referinta": "Isaia 53:5", "text": "Prin rănile Lui suntem vindecați."},
+    {"referinta": "Psalmul 34:18", "text": "Domnul este aproape de cei cu inima frântă."},
+    {"referinta": "2 Corinteni 1:3-4", "text": "El ne mângâie în toate necazurile noastre."},
+    {"referinta": "Psalmul 30:2", "text": "Doamne, Tu m-ai vindecat."},
+    {"referinta": "Exodul 15:26", "text": "Eu sunt Domnul, care te vindecă."},
+    {"referinta": "Psalmul 6:2", "text": "Vindecă-mă, Doamne, căci oasele mele tremură."},
+    {"referinta": "Ieremia 17:14", "text": "Vindecă-mă, Doamne, și voi fi vindecat."},
+    {"referinta": "Psalmul 73:26", "text": "Carnea și inima pot să mi se prăpădească, dar Dumnezeu este stânca inimii mele."},
+    {"referinta": "Psalmul 41:3", "text": "Domnul îl sprijină pe patul suferinței."}
+  ],
+  "rugaciuni": [
+    "Doamne, Tu cunoști durerea mea. Te rog să-mi vindeci rănile și să-mi aduci pacea Ta.",
+    "Tată ceresc, în momentele de suferință, ajută-mă să mă încred în puterea Ta vindecătoare.",
+    "Isuse, Tu ai purtat suferințele noastre. Fii alături de mine și adu-mi alinare."
+  ]
+},
+"Plin de pace": {
+  "versete": [
+    {"referinta": "Ioan 14:27", "text": "Pacea Mea v-o dau; nu cum o dă lumea."},
+    {"referinta": "Isaia 26:3", "text": "Celui cu inima tare, Tu-i păstrezi pacea."},
+    {"referinta": "Filipeni 4:7", "text": "Pacea lui Dumnezeu, care întrece orice pricepere, vă va păzi inimile."},
+    {"referinta": "Psalmul 4:8", "text": "În pace mă culc și adorm, căci Tu, Doamne, mă faci să locuiesc liniștit."},
+    {"referinta": "Romani 15:13", "text": "Dumnezeul nădejdii să vă umple cu toată pacea."},
+    {"referinta": "Coloseni 3:15", "text": "Pacea lui Hristos să stăpânească în inimile voastre."},
+    {"referinta": "Psalmul 119:165", "text": "Multă pace au cei ce iubesc Legea Ta."},
+    {"referinta": "Isaia 32:17", "text": "Rodul neprihănirii va fi pacea."},
+    {"referinta": "2 Tesaloniceni 3:16", "text": "Domnul păcii să vă dea totdeauna pace."},
+    {"referinta": "Proverbe 16:7", "text": "Când Domnul este mulțumit de căile unui om, îi face prieteni chiar și pe vrăjmașii lui."}
+  ],
+ "rugaciuni": [
+    "Doamne, umple-mi inima cu pacea Ta care întrece orice înțelegere. Fă-mă un canal al păcii Tale.",
+    "Tată ceresc, când lumea e agitată, ajută-mă să rămân ancorat în promisiunile Tale și să nu mă clatin.",
+    "Isuse, Tu ai potolit furtunile. Potolește și neliniștea din sufletul meu și dă-mi liniște deplină."
+  ]
+},
+"Obosit": {
+  "versete": [
+    {"referinta": "Matei 11:28", "text": "Veniți la Mine, toți cei trudiți și împovărați, și Eu vă voi da odihnă."},
+    {"referinta": "Isaia 40:29", "text": "El dă tărie celui obosit și mărește puterea celui slab."},
+    {"referinta": "Psalmul 23:2-3", "text": "El mă paște în pășuni verzi... îmi înviorează sufletul."},
+    {"referinta": "Galateni 6:9", "text": "Să nu obosim în facerea binelui."},
+    {"referinta": "2 Corinteni 4:16", "text": "Chiar dacă omul nostru exterior se trece, cel lăuntric se înnoiește din zi în zi."},
+    {"referinta": "Isaia 40:31", "text": "Cei ce se încred în Domnul își înnoiesc puterea."},
+    {"referinta": "Psalmul 62:1", "text": "Numai în Dumnezeu îmi găsește sufletul odihna."},
+    {"referinta": "Exodul 33:14", "text": "Prezența Mea va merge cu tine și îți voi da odihnă."},
+    {"referinta": "Psalmul 91:1", "text": "Cel ce locuiește în locul tainic al Celui Preaînalt se odihnește la umbra Celui Atotputernic."},
+    {"referinta": "Evrei 4:9", "text": "Rămâne o odihnă pentru poporul lui Dumnezeu."}
+  ],
+  "rugaciuni": [
+    "Doamne, sunt obosit și slăbit. Te rog să-mi dai odihna sufletului și să mă înviorezi.",
+    "Tată ceresc, în epuizarea mea, Tu ești refugiul meu. Umple-mă cu puterea Ta.",
+    "Isuse, Tu ai purtat poverile noastre. Ajută-mă să mă odihnesc în harul Tău."
+  ]
+},
+"Entuziast": {
+  "versete": [
+    {"referinta": "Psalmul 100:2", "text": "Slujiți Domnului cu bucurie, veniți înaintea Lui cu cântări."},
+    {"referinta": "Romani 12:11", "text": "Fiți plini de râvnă cu duhul, slujiți Domnului."},
+    {"referinta": "Coloseni 3:23", "text": "Orice faceți, faceți din toată inima, ca pentru Domnul."},
+    {"referinta": "Psalmul 37:4", "text": "Găsește-ți plăcerea în Domnul, și El îți va da tot ce-ți dorește inima."},
+    {"referinta": "Isaia 55:12", "text": "Veți ieși cu bucurie și veți fi călăuziți în pace."},
+    {"referinta": "Psalmul 92:4", "text": "Tu mă înveselești prin lucrările Tale, Doamne."},
+    {"referinta": "Filipeni 2:13", "text": "Dumnezeu lucrează în voi și vă dă voința și înfăptuirea."},
+    {"referinta": "Psalmul 119:14", "text": "Mă bucur de calea poruncilor Tale."},
+    {"referinta": "Proverbe 16:3", "text": "Încredințează-ți lucrările în mâna Domnului."},
+    {"referinta": "Psalmul 84:2", "text": "Sufletul meu tânjește și dorește curțile Domnului."}
+  ],
+  "rugaciuni": [
+    "Doamne, îți mulțumesc pentru energia și entuziasmul pe care mi le dai. Ajută-mă să le folosesc pentru slava Ta.",
+    "Tată ceresc, aprinde în mine o pasiune sfântă pentru voia Ta și pentru lucrarea Ta.",
+    "Isuse, fă ca entuziasmul meu să fie ancorat în dragostea Ta și să aducă bucurie celor din jur."
+  ]
+},
+"Lipsit de credinta": {
+  "versete": [
+    {"referinta": "Iacov 1:6", "text": "Să ceară cu credință, fără să se îndoiască."},
+    {"referinta": "Marcu 9:24", "text": "Cred, Doamne! Ajută necredinței mele."},
+    {"referinta": "Matei 14:31", "text": "Puțin credinciosule, pentru ce te-ai îndoit?"},
+    {"referinta": "Evrei 11:1", "text": "Credința este o încredere neclintită în lucrurile nădăjduite."},
+    {"referinta": "Psalmul 94:19", "text": "Când gândurile se înmulțesc înăuntrul meu, mângâierile Tale îmi aduc alinare."},
+    {"referinta": "Isaia 7:9", "text": "Dacă nu credeți, nu veți sta în picioare."},
+    {"referinta": "Ioan 20:27", "text": "Nu fi necredincios, ci credincios."},
+    {"referinta": "Proverbe 3:5", "text": "Încrede-te în Domnul din toată inima ta."},
+    {"referinta": "Psalmul 56:3", "text": "Când mă tem, mă încred în Tine."},
+    {"referinta": "2 Corinteni 5:7", "text": "Noi umblăm prin credință, nu prin vedere."}
+  ],
+  "rugaciuni": [
+    "Doamne, când îndoiala mă cuprinde, ajută-mă să privesc la Tine și să cred în promisiunile Tale.",
+    "Tată ceresc, întărește-mi credința și alungă orice neîncredere din inima mea.",
+    "Isuse, Tu ești credincios. Ajută-mă să mă sprijin pe adevărul Tău, chiar și când nu înțeleg."
+  ]
+},
+"Mulțumit": {
+  "versete": [
+    {"referinta": "1 Timotei 6:6", "text": "Evlavia însoțită de mulțumire este un mare câștig."},
+    {"referinta": "Filipeni 4:11", "text": "M-am deprins să fiu mulțumit cu starea în care mă găsesc."},
+    {"referinta": "Evrei 13:5", "text": "Mulțumiți-vă cu ce aveți."},
+    {"referinta": "Psalmul 23:1", "text": "Domnul este Păstorul meu: nu voi duce lipsă de nimic."},
+    {"referinta": "Proverbe 15:16", "text": "Mai bine puțin cu frică de Domnul decât o mare bogăție cu tulburare."},
+    {"referinta": "Psalmul 37:16", "text": "Mai mult face puținul celui neprihănit decât belșugul celor răi."},
+    {"referinta": "Psalmul 131:2", "text": "Sufletul meu este liniștit și mulțumit."},
+    {"referinta": "Luca 3:14", "text": "Mulțumiți-vă cu lefurile voastre."},
+    {"referinta": "Proverbe 30:8-9", "text": "Nu-mi da nici sărăcie, nici bogăție... hrănește-mă cu pâinea care-mi trebuie."},
+    {"referinta": "Psalmul 16:5-6", "text": "Tu îmi dai o moștenire plăcută, o frumoasă moșie îmi este dată."}
+  ],
+  
+  "rugaciuni": [
+    "Doamne, îți mulțumesc pentru tot ce am. Ajută-mă să fiu mulțumit și recunoscător în orice împrejurare.",
+    "Tată ceresc, învață-mă să nu tânjesc după ce nu am, ci să prețuiesc ceea ce mi-ai dat.",
+    "Isuse, Tu ești suficient pentru sufletul meu. Umple-mi inima cu pace și mulțumire."
+  ]
+},
+
+    "Vinovat": {
+  "versete": [
+    {"referinta": "1 Ioan 1:9", "text": "Dacă ne mărturisim păcatele, El este credincios și drept ca să ne ierte."},
+    {"referinta": "Psalmul 32:5", "text": "Mi-am mărturisit păcatul și Tu ai iertat vina."},
+    {"referinta": "Romani 8:1", "text": "Acum, dar, nu este nicio osândire pentru cei ce sunt în Hristos Isus."},
+    {"referinta": "Isaia 1:18", "text": "Păcatele voastre vor fi albe ca zăpada."},
+    {"referinta": "Psalmul 51:10", "text": "Zidește în mine o inimă curată, Dumnezeule."},
+    {"referinta": "Proverbe 28:13", "text": "Cine își ascunde păcatele nu propășește, dar cine le mărturisește capătă îndurare."},
+    {"referinta": "Evrei 10:22", "text": "Să ne apropiem cu o inimă curată, cu credință deplină."},
+    {"referinta": "Psalmul 103:12", "text": "Cât este de departe răsăritul de apus, atât de mult îndepărtează El păcatele noastre."},
+    {"referinta": "Luca 15:7", "text": "Mai multă bucurie va fi în cer pentru un păcătos care se pocăiește."},
+    {"referinta": "Isaia 43:25", "text": "Eu sunt Acela care îți șterge fărădelegile."}
+  ],
+  "rugaciuni": [
+    "Doamne, mă simt apăsat de greșelile mele. Te rog, iartă-mă și curățește-mi inima.",
+    "Tată ceresc, ajută-mă să primesc harul Tău și să nu mai trăiesc în vinovăție.",
+    "Isuse, Tu ai murit pentru păcatele mele. Îți mulțumesc pentru iertare și libertate."
+  ]
+},
+"Speranță": {
+  "versete": [
+    {"referinta": "Ieremia 29:11", "text": "Căci Eu știu gândurile pe care le am cu privire la voi, zice Domnul."},
+    {"referinta": "Romani 15:13", "text": "Dumnezeul nădejdii să vă umple cu toată bucuria și pacea."},
+    {"referinta": "Psalmul 33:18", "text": "Ochiul Domnului privește peste cei ce nădăjduiesc în bunătatea Lui."},
+    {"referinta": "Proverbe 23:18", "text": "Este o răsplată și nădejdea ta nu va fi nimicită."},
+    {"referinta": "Isaia 40:31", "text": "Cei ce se încred în Domnul își înnoiesc puterea."},
+    {"referinta": "Psalmul 71:14", "text": "Dar eu voi nădăjdui necontenit și Te voi lăuda tot mai mult."},
+    {"referinta": "Evrei 6:19", "text": "Această nădejde o avem ca o ancoră a sufletului."},
+    {"referinta": "Psalmul 130:5", "text": "Eu nădăjduiesc în Domnul, sufletul meu nădăjduiește."},
+    {"referinta": "Lamentații 3:21-23", "text": "Bunătățile Domnului nu s-au sfârșit, ci se înnoiesc în fiecare dimineață."},
+    {"referinta": "Romani 8:24", "text": "În nădejde am fost mântuiți."}
+  ],
+  "rugaciuni": [
+    "Doamne, dă-mi speranță pentru ziua de mâine. Ajută-mă să cred că viitorul este în mâinile Tale.",
+    "Tată ceresc, când privesc înainte, vreau să văd lumina Ta călăuzindu-mă.",
+    "Isuse, Tu ești începutul și sfârșitul. În Tine găsesc speranță și direcție."
+  ]
+},
+"Adorare": {
+  "versete": [
+    {"referinta": "Psalmul 95:6", "text": "Veniți să ne închinăm și să ne smerim."},
+    {"referinta": "Ioan 4:24", "text": "Dumnezeu este Duh; și cine se închină Lui trebuie să I se închine în duh și adevăr."},
+    {"referinta": "Psalmul 29:2", "text": "Dați Domnului slavă pentru Numele Lui."},
+    {"referinta": "Psalmul 99:5", "text": "Înălțați pe Domnul, Dumnezeul nostru, și închinați-vă înaintea picioarelor Lui."},
+    {"referinta": "Apocalipsa 4:11", "text": "Vrednic ești, Doamne, să primești slava, cinstea și puterea."},
+    {"referinta": "Psalmul 96:9", "text": "Închinați-vă Domnului cu podoabe sfinte."},
+    {"referinta": "Psalmul 145:3", "text": "Mare este Domnul și foarte vrednic de laudă."},
+    {"referinta": "Psalmul 103:1", "text": "Binecuvântează, suflete al meu, pe Domnul."},
+    {"referinta": "Evrei 12:28", "text": "Să aducem lui Dumnezeu o închinare plăcută."},
+    {"referinta": "Psalmul 150:6", "text": "Tot ce are suflare să laude pe Domnul!"}
+  ],
+  "rugaciuni": [
+    "Doamne, Tu ești vrednic de toată închinarea mea. Primește lauda inimii mele.",
+    "Tată ceresc, mă prosternez înaintea măreției Tale. Fie ca viața mea să fie o jertfă de adorare.",
+    "Isuse, Te ador pentru cine ești și pentru ce ai făcut. Umple-mi sufletul cu prezența Ta."
+  ]
+},
+"Neînțeles": {
+  "versete": [
+    {"referinta": "Psalmul 139:1", "text": "Doamne, Tu mă cercetezi și mă cunoști."},
+    {"referinta": "Evrei 4:15", "text": "Avem un Mare Preot care poate să se identifice cu slăbiciunile noastre."},
+    {"referinta": "Isaia 49:16", "text": "Te-am săpat pe palmele Mele."},
+    {"referinta": "Psalmul 142:2", "text": "Îmi vărs necazul înaintea Lui."},
+    {"referinta": "Ioan 1:10-11", "text": "El era în lume... și lumea nu L-a cunoscut."},
+    {"referinta": "Psalmul 31:7", "text": "Tu ai văzut necazul meu și ai cunoscut suferințele sufletului meu."},
+    {"referinta": "Psalmul 38:9", "text": "Doamne, toate dorințele mele sunt înaintea Ta."},
+    {"referinta": "Psalmul 55:22", "text": "Încredințează-ți soarta în mâna Domnului."},
+    {"referinta": "Isaia 63:9", "text": "În toate necazurile lor, n-a fost fără durere."},
+    {"referinta": "Psalmul 34:15", "text": "Ochii Domnului sunt peste cei neprihăniți."}
+  ],
+
+  "rugaciuni": [
+    "Doamne, când nimeni nu mă înțelege, știu că Tu mă cunoști pe deplin. Mângâie-mi sufletul și dă-mi liniște.",
+    "Tată ceresc, în momentele de izolare, ajută-mă să simt dragostea Ta care mă înconjoară.",
+    "Isuse, Tu ai fost respins și neînțeles. Fii alături de mine și dă-mi puterea să rămân credincios."
+  ]
+}
 }
